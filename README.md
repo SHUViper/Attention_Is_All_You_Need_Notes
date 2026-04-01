@@ -1,1 +1,4 @@
+# Attention_Is_All_You_Need_Notes_阅读笔记
 这篇论文的核心贡献是提出了一个新的处理seq2seq的系统架构：Transformer ，它是用 self-attention 取代 RNN/CNN，构建出一种可高并行、擅长长距离依赖建模的序列到序列架构，并通过多头注意力与位置编码机制，使模型在机器翻译等任务上取得了显著优于此前方法的效果。
+## 论文阅读笔记
+- [Attention_Is_All_You_Need](AIAYN_notes_github_v2.md)
